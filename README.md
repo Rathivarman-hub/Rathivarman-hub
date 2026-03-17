@@ -1,8 +1,7 @@
 Hi 👋, I'm Rathivarman P
 ##
 🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast
-##
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 Pre-Final Year Engineering Student
 
@@ -13,8 +12,7 @@ Hi 👋, I'm Rathivarman P
 🎯 Aiming for Product-Based Companies
 
 ⚡ Passionate about coding, debugging & continuous learning
-##
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 🚀 Frontend
 
 ⚛️ React.js
@@ -34,8 +32,7 @@ Hi 👋, I'm Rathivarman P
 🗄️ Database
 
 🍃 MongoDB
-##
-📌 Projects
+## 📌 Projects
 
 🔹 🎬 Movie Database App
 → Built a responsive app to browse movies with search & filter features
@@ -51,8 +48,7 @@ Hi 👋, I'm Rathivarman P
 → Full-stack furniture website with product listing, cart & order system
 → Designed admin & user functionalities
 → Tech: MERN Stack (MongoDB, Express, React, Node.js)
-##
-📫 Connect with Me
+## 📫 Connect with Me
 
 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/rathivarman-p-5a6b8132b/)
 📧 Email: rathivarma2005@gmail.com
@@ -70,14 +66,18 @@ Hi 👋, I'm Rathivarman P
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
   <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
 
-  <!-- EXPRESS (FIXED - COLORED VERSION) -->
-  <img title="Express.js" src="https://img.icons8.com/color/48/express-js.png" height="45"/>
+  <!-- EXPRESS DARK BG -->
+  <span style="background-color:#000; padding:8px; border-radius:10px;">
+    <img title="Express.js" src="https://cdn.simpleicons.org/express/ffffff" height="30"/>
+  </span>
 
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
 
-  <!-- GITHUB (FIXED - COLORED VERSION) -->
-  <img title="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png" height="45"/>
+  <!-- GITHUB DARK BG -->
+  <span style="background-color:#000; padding:8px; border-radius:10px;">
+    <img title="GitHub" src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
+  </span>
 
   <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
   <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" />
