@@ -1,10 +1,10 @@
 Hi 👋, I'm Rathivarman P
-
+##
 🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast
-
+##
 👨‍💻 About Me
 
-🎓 Final Year Engineering Student
+🎓 Pre-Final Year Engineering Student
 
 💻 Building scalable real-world applications using the MERN Stack
 
@@ -13,7 +13,7 @@ Hi 👋, I'm Rathivarman P
 🎯 Aiming for Product-Based Companies
 
 ⚡ Passionate about coding, debugging & continuous learning
-
+##
 🛠️ Tech Stack
 🚀 Frontend
 
@@ -34,7 +34,7 @@ Hi 👋, I'm Rathivarman P
 🗄️ Database
 
 🍃 MongoDB
-
+##
 📌 Projects
 
 🔹 🎬 Movie Database App
@@ -51,7 +51,7 @@ Hi 👋, I'm Rathivarman P
 → Full-stack furniture website with product listing, cart & order system
 → Designed admin & user functionalities
 → Tech: MERN Stack (MongoDB, Express, React, Node.js)
-
+##
 📫 Connect with Me
 
 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/rathivarman-p-5a6b8132b/)
@@ -59,8 +59,6 @@ Hi 👋, I'm Rathivarman P
 
 ⭐ If you like my work, consider giving a star!
 💡 “Code. Learn. Build. Repeat.”
-
- 🧩 Tech Stack
 
 ## 🧩 Tech Stack
 
@@ -72,12 +70,15 @@ Hi 👋, I'm Rathivarman P
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
   <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <!-- EXPRESS (FIXED - COLORED VERSION) -->
+  <img title="Express.js" src="https://img.icons8.com/color/48/express-js.png" height="45"/>
+
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+  <!-- GITHUB (FIXED - COLORED VERSION) -->
+  <img title="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png" height="45"/>
 
+  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
   <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" />
 </p>
