@@ -1,6 +1,6 @@
-Hi 👋, I'm Rathivarman P
-##
-🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast
+## Hi 👋, I'm Rathivarman P
+
+## 🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast
 ## 👨‍💻 About Me
 
 🎓 Pre-Final Year Engineering Student
@@ -59,26 +59,26 @@ Hi 👋, I'm Rathivarman P
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" />
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 
-  <!-- EXPRESS DARK BG -->
-  <span style="background-color:#000; padding:8px; border-radius:10px;">
-    <img title="Express.js" src="https://cdn.simpleicons.org/express/ffffff" height="30"/>
+  <!-- EXPRESS FIX -->
+  <span style="background-color:#1e1e1e; padding:6px; border-radius:8px; display:inline-block;">
+    <img title="Express.js" src="https://cdn.simpleicons.org/express/ffffff" width="30" height="30"/>
   </span>
 
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
-  <!-- GITHUB DARK BG -->
-  <span style="background-color:#000; padding:8px; border-radius:10px;">
-    <img title="GitHub" src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
+  <!-- GITHUB FIX -->
+  <span style="background-color:#1e1e1e; padding:6px; border-radius:8px; display:inline-block;">
+    <img title="GitHub" src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30"/>
   </span>
 
-  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
-  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" />
+  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
 </p>
