@@ -34,15 +34,10 @@
 🍃 MongoDB
 ## 📌 Projects
 
-🔹 🎬 Movie Database App
-→ Built a responsive app to browse movies with search & filter features
-→ Integrated external API for real-time movie data
-→ Tech: React.js, API Integration
-
-🔹 🔐 Authentication System (SIS)
-→ Secure login & registration system with JWT authentication
-→ Implemented password hashing and protected routes
-→ Tech: Node.js, Express.js, MongoDB
+🔹📅 Hackathon Booking (Virtual Event Platform) 
+→ Full-stack booking system with appointment scheduling and OTP verification 
+→ Designed participant, organiser, and admin role-based functionalities 
+→ Tech: MERN Stack (MongoDB, Express, React, Node.js)
 
 🔹 🪑 Varun Furniture (E-Commerce Platform)
 → Full-stack furniture website with product listing, cart & order system
