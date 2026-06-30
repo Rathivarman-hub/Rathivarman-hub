@@ -70,7 +70,7 @@ A full-stack appointment booking system with OTP-based verification and role-bas
 A full-stack inventory management system for tracking stock levels, managing products, and processing orders, with separate admin and user roles.
 
 **Tech Stack:** MongoDB · Express · React · Node.js
-**Repo:** [_add link_](https://github.com/Rathivarman-hub/stockZen) | **Live Demo:** _add link_
+**Repo:** https://github.com/Rathivarman-hub/stockZen | **Live Demo:** _add link_
 
 ---
 
