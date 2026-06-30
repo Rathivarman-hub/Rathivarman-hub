@@ -1,79 +1,89 @@
-## Hi 👋, I'm Rathivarman P
+<div align="center">
 
-## 🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast
-## 👨‍💻 About Me
+# Rathivarman P
 
-🎓 Pre-Final Year Engineering Student
+### MERN Stack Developer | Problem Solver | Tech Enthusiast
 
-💻 Building scalable real-world applications using the MERN Stack
+Pre-final year Computer Science engineering student focused on building production-grade full-stack applications and strengthening core problem-solving skills for product-based companies.
 
-📚 Currently focusing on DSA & Backend Development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rathivarma2005@gmail.com)
 
-🎯 Aiming for Product-Based Companies
+</div>
 
-⚡ Passionate about coding, debugging & continuous learning
-## 🛠️ Tech Stack
-🚀 Frontend
+---
 
-⚛️ React.js
+## About Me
 
-🟨 JavaScript (ES6+)
+- 🎓 Pre-final year engineering student
+- 💻 Building scalable, real-world applications with the MERN stack
+- 📚 Currently deepening Data Structures & Algorithms and backend system design
+- 🎯 Preparing for SDE roles at product-based companies
+- ⚡ Driven by clean code, thoughtful debugging, and continuous learning
 
-🌐 HTML5
+---
 
-🎨 CSS3 / Bootsratp
+## Tech Stack
 
-⚙️ Backend
+**Frontend**
 
-🟢 Node.js
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-🚏 Express.js
+**Backend**
 
-🗄️ Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-🍃 MongoDB
-## 📌 Projects
+**Database**
 
-🔹📅 Hackathon Booking (Virtual Event Platform) 
-→ Full-stack booking system with appointment scheduling and OTP verification 
-→ Designed participant, organiser, and admin role-based functionalities 
-→ Tech: MERN Stack (MongoDB, Express, React, Node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-🔹 🪑 Varun Furniture (E-Commerce Platform)
-→ Full-stack furniture website with product listing, cart & order system
-→ Designed admin & user functionalities
-→ Tech: MERN Stack (MongoDB, Express, React, Node.js)
-## 📫 Connect with Me
+---
 
-💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/rathivarman-p-5a6b8132b/)
-📧 Email: rathivarma2005@gmail.com
+## Featured Projects
 
-⭐ If you like my work, consider giving a star!
-💡 “Code. Learn. Build. Repeat.”
+### Vendor Bridge
+A full-stack vendor–customer platform with role-based dashboards, product/listing management, and order handling.
 
-## 🧩 Tech Stack
+**Tech Stack:** MongoDB · Express · React · Node.js
+**Repo:** _add link_ | **Live Demo:** _add link_
 
-<p align="center">
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+### Booking Platform
+A full-stack appointment booking system with OTP-based verification and role-based functionality for participants, organisers, and admins.
 
-  <!-- EXPRESS FIX -->
-  <span style="background-color:#1e1e1e; padding:6px; border-radius:8px; display:inline-block;">
-    <img title="Express.js" src="https://cdn.simpleicons.org/express/ffffff" width="30" height="30"/>
-  </span>
+**Tech Stack:** MongoDB · Express · React · Node.js
+**Repo:** _add link_ | **Live Demo:** _add link_
 
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+### StockZen — Inventory Management System
+A full-stack inventory management system for tracking stock levels, managing products, and processing orders, with separate admin and user roles.
 
-  <!-- GITHUB FIX -->
-  <span style="background-color:#1e1e1e; padding:6px; border-radius:8px; display:inline-block;">
-    <img title="GitHub" src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30"/>
-  </span>
+**Tech Stack:** MongoDB · Express · React · Node.js
+**Repo:** _add link_ | **Live Demo:** _add link_
 
-  <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-</p>
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+</div>
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- **Email:** [rathivarma2005@gmail.com](mailto:rathivarma2005@gmail.com)
+
+<div align="center">
+
+*If you find my work useful, a ⭐ on my repositories is always appreciated.*
+
+</div>
