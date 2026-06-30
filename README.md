@@ -6,9 +6,6 @@
 
 Pre-final year Computer Science engineering student focused on building production-grade full-stack applications and strengthening core problem-solving skills for product-based companies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rathivarma2005@gmail.com)
-
 </div>
 
 ---
