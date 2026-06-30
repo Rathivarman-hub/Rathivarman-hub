@@ -58,19 +58,19 @@ Pre-final year Computer Science engineering student focused on building producti
 A full-stack vendor–customer platform with role-based dashboards, product/listing management, and order handling.
 
 **Tech Stack:** MongoDB · Express · React · Node.js
-**Repo:**  | **Live Demo:** 
+**Repo:** https://github.com/Rathivarman-hub/vendor-bridge | **Live Demo:** https://vendor-bridge-erp-system.vercel.app/
 
 ### Booking Platform
 A full-stack appointment booking system with OTP-based verification and role-based functionality for participants, organisers, and admins.
 
 **Tech Stack:** MongoDB · Express · React · Node.js
-**Repo:** _add link_ | **Live Demo:** _add link_
+**Repo:** https://github.com/Rathivarman-hub/appointment-booking | **Live Demo:** https://appopintment-booking.vercel.app/
 
 ### StockZen — Inventory Management System
 A full-stack inventory management system for tracking stock levels, managing products, and processing orders, with separate admin and user roles.
 
 **Tech Stack:** MongoDB · Express · React · Node.js
-**Repo:** https://github.com/Rathivarman-hub/stockZen | **Live Demo:** _add link_
+**Repo:** https://github.com/Rathivarman-hub/stockZen | **Live Demo:** https://stockzen-ims.vercel.app/
 
 ---
 
