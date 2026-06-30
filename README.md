@@ -6,6 +6,9 @@
 
 Pre-final year Computer Science engineering student focused on building production-grade full-stack applications and strengthening core problem-solving skills for product-based companies.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rathivarma2005@gmail.com)
+
 </div>
 
 ---
@@ -78,8 +81,8 @@ A full-stack inventory management system for tracking stock levels, managing pro
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rathivarman-hub&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathivarman-hub&layout=compact)
 
 </div>
 
@@ -87,7 +90,7 @@ A full-stack inventory management system for tracking stock levels, managing pro
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- **LinkedIn:** ([https://linkedin.com/in/your-link](https://www.linkedin.com/in/rathivarman-p-5a6b8132b/))
 - **Email:** [rathivarma2005@gmail.com](mailto:rathivarma2005@gmail.com)
 
 <div align="center">
