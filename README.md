@@ -6,9 +6,6 @@
 
 Pre-final year Computer Science engineering student focused on building production-grade full-stack applications and strengthening core problem-solving skills for product-based companies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathivarman-p-5a6b8132b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rathivarma2005@gmail.com)
-
 </div>
 
 ---
@@ -61,7 +58,7 @@ Pre-final year Computer Science engineering student focused on building producti
 A full-stack vendor–customer platform with role-based dashboards, product/listing management, and order handling.
 
 **Tech Stack:** MongoDB · Express · React · Node.js
-**Repo:** _add link_ | **Live Demo:** _add link_
+**Repo:**  | **Live Demo:** 
 
 ### Booking Platform
 A full-stack appointment booking system with OTP-based verification and role-based functionality for participants, organisers, and admins.
@@ -73,18 +70,10 @@ A full-stack appointment booking system with OTP-based verification and role-bas
 A full-stack inventory management system for tracking stock levels, managing products, and processing orders, with separate admin and user roles.
 
 **Tech Stack:** MongoDB · Express · React · Node.js
-**Repo:** _add link_ | **Live Demo:** _add link_
+**Repo:** [_add link_](https://github.com/Rathivarman-hub/stockZen) | **Live Demo:** _add link_
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rathivarman-hub&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathivarman-hub&layout=compact)
-
-</div>
 
 ---
 
