@@ -79,7 +79,7 @@ A full-stack inventory management system for tracking stock levels, managing pro
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/rathivarman-p-5a6b8132b](https://www.linkedin.com/in/rathivarman-p-5a6b8132b/)
+- **LinkedIn:** [https://www.linkedin.com/in/rathivarman-p](https://www.linkedin.com/in/rathivarman-p/)
 - **Email:** [rathivarma2005@gmail.com](mailto:rathivarma2005@gmail.com)
 
 <div align="center">
